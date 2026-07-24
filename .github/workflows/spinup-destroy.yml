@@ -1,5 +1,6 @@
 name: Configure Azure environment
 #new commit 01
+#changed the sku
 on:
   pull_request:
     types: [labeled]
