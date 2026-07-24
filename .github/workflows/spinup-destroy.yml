@@ -1,5 +1,5 @@
 name: Configure Azure environment
-
+#changed the sku
 on:
   pull_request:
     types: [labeled]
